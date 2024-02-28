@@ -22,9 +22,11 @@ Sinta-se à vontade para entrar em contato comigo. Estou aberto a sugestões, op
 
 ## Redes Sociais
 
-**Linkedin:** [rafaelfgarcia](https://linkedin.com/in/rafaelfgarcia)
+💼 **Linkedin:** [rafaelfgarcia](https://linkedin.com/in/rafaelfgarcia)
 
-**Medium:** [rafaelfgarcia](https://medium.com/@rafaelfgarcia)
+📝 **Medium:** [@rafaelfgarcia](https://medium.com/@rafaelfgarcia)
+
+🎓 **Lattes:** [lattes.cnpq.br/4056670559510809](http://lattes.cnpq.br/4056670559510809)
 
 ## Contato
 
