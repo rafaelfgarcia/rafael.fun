@@ -2,9 +2,9 @@
 
 ## Sobre
 
-Olá! Meu nome é **Rafael** e sou um desenvolvedor _full stack_. Comecei minha jornada na área de desenvolvimento em 2006. Participei de vários projetos, destacando-se o desenvolvimento de sites institucionais e portais para prefeituras e câmaras municipais.
+Olá! Meu nome é **Rafael** e sou um desenvolvedor _full stack_. Iniciei minha jornada na área de desenvolvimento em 2006, participando de diversos projetos, com destaque para o desenvolvimento de sites institucionais e portais destinados a prefeituras e câmaras municipais.
 
-Tenho graduação em engenharia elétrica e especialização em segurança da informação. Em termos de linguagens e tecnologias, possuo domínio e afinidade nas seguintes áreas:
+Tenho graduação em engenharia elétrica e especialização em segurança da informação. Possuo domínio e afinidade nas seguintes áreas:
 
 -   Tríade Web
     -   HTML, CSS e JavaScript
@@ -12,7 +12,7 @@ Tenho graduação em engenharia elétrica e especialização em segurança da in
     -   Laravel, CodeIgniter e WordPress
 -   SQL
 
-Atualmente, além de trabalhos como _freelancer_, faço parte da equipe de desenvolvimento de uma sólida empresa de tecnologia em Minas Gerais. Também sou professor no ensino superior no curso de Ciência da Computação.
+Atualmente, além de realizar trabalhos como _freelancer_, faço parte da equipe de desenvolvimento de uma sólida empresa de tecnologia em Minas Gerais. Além disso, sou professor no ensino superior, lecionando no curso de Ciência da Computação, assim como nos cursos técnicos de Informática e Eletrotécnica.
 
 Sinta-se à vontade para entrar em contato comigo. Estou aberto a sugestões, oportunidades comerciais ou troca de figurinhas.
 
