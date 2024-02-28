@@ -20,7 +20,7 @@ Sinta-se à vontade para entrar em contato comigo. Estou aberto a sugestões, op
 
 👀 [ em breve ]
 
-## Redes Sociais
+## Sigam-me os bons
 
 💼 [**Linkedin** (rafaelfgarcia)](https://linkedin.com/in/rafaelfgarcia)
 
