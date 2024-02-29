@@ -30,7 +30,7 @@ Sinta-se à vontade para entrar em contato comigo. Estou aberto a sugestões, op
 
 ## Contato
 
-🔗 [rafaelgarcia.dev](https://rafaelgarcia.dev)
+🔗 [rafael.fun](https://rafael.fun)
 
 💻 [codigoforte.com.br](https://codigoforte.com.br)
 
