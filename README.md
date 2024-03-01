@@ -1,5 +1,7 @@
 # Rafael F. Garcia
 
+    <?php echo "e ae filhão, só nos compiuter!"; ?>
+
 ## Sobre
 
 Olá! Meu nome é **Rafael** e sou um desenvolvedor _full stack_. Iniciei minha jornada na área de desenvolvimento em 2006, participando de diversos projetos, com destaque para o desenvolvimento de sites institucionais e portais destinados a prefeituras e câmaras municipais.
