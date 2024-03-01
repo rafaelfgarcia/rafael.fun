@@ -1,6 +1,6 @@
 # Rafael F. Garcia
 
-    <?php echo "e ae filhão, só nos compiuter!"; ?>
+_E ai filhão, só nos compiuter!_
 
 ## Sobre
 
