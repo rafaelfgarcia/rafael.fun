@@ -1,6 +1,6 @@
 # Rafael F. Garcia
 
-_E ai filhão, só nos compiuter!_
+_E ai filhão, só nos compiuter!_ 🤙
 
 ## Sobre
 
@@ -18,7 +18,7 @@ Atualmente, além de realizar trabalhos como _freelancer_, faço parte da equipe
 
 Sinta-se à vontade para entrar em contato comigo. Estou aberto a sugestões, oportunidades comerciais ou troca de figurinhas.
 
-## Artigos
+## Publicações
 
 👀 [ em breve ]
 
@@ -28,12 +28,14 @@ Sinta-se à vontade para entrar em contato comigo. Estou aberto a sugestões, op
 
 📝 [**Medium** (@rafaelfgarcia)](https://medium.com/@rafaelfgarcia)
 
+👨‍💻 [**GitHub** (rafaelfgarcia)](https://github.com/rafaelfgarcia)
+
 🎓 [**Lattes**](http://lattes.cnpq.br/4056670559510809)
 
 ## Contato
 
 🔗 [rafael.fun](https://rafael.fun)
 
-💻 [codigoforte.com.br](https://codigoforte.com.br)
+🔗 [codigoforte.com.br](https://codigoforte.com.br)
 
 📬 codigoforte@hotmail.com
