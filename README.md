@@ -2,7 +2,7 @@
 
 _E ai filhão, só nos compiuter!_ 🤙
 
-## Sobre
+## // Sobre
 
 Olá! Meu nome é **Rafael** e sou um desenvolvedor _full stack_. Iniciei minha jornada na área de desenvolvimento em 2006, participando de diversos projetos, com destaque para o desenvolvimento de sites institucionais e portais destinados a prefeituras e câmaras municipais.
 
@@ -18,11 +18,11 @@ Atualmente, além de realizar trabalhos como _freelancer_, faço parte da equipe
 
 Sinta-se à vontade para entrar em contato comigo. Estou aberto a sugestões, oportunidades comerciais ou troca de figurinhas.
 
-## Publicações
+## // Publicações
 
 👀 [ em breve ]
 
-## Sigam-me os bons
+## // Onde estou
 
 💼 [**Linkedin** (rafaelfgarcia)](https://linkedin.com/in/rafaelfgarcia)
 
@@ -32,7 +32,7 @@ Sinta-se à vontade para entrar em contato comigo. Estou aberto a sugestões, op
 
 🎓 [**Lattes**](http://lattes.cnpq.br/4056670559510809)
 
-## Contato
+## // Contato
 
 🔗 [rafael.fun](https://rafael.fun)
 
